@@ -1,0 +1,27 @@
+#nb{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: aquamarine;
+}
+li{
+    display: flex;
+}
+ul:hover{
+    cursor: pointer;
+}
+.ser{
+    border-radius: 5px;
+    height: 25px;
+    margin-right: 5px;
+    border: none;
+    box-shadow: 0.5px 0.5px 2px black;
+}
+.butts{
+    margin-right: 3px;
+    font-size: 18px;
+    border-radius: 30px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0.5px 0.5px 2px black;
+}

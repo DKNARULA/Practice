@@ -1,0 +1,10 @@
+#p{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+#ser{
+    border-radius: 10px;
+    width: 200px;
+    margin: 15px;
+}

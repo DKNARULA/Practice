@@ -1,0 +1,16 @@
+#par{
+    display: flex;
+
+}
+#g{
+    flex-grow: 4;
+}
+#p{
+    flex-grow: 1;
+}
+#l{
+    width: 100%;
+}
+#home{
+    float: inline-end;
+}

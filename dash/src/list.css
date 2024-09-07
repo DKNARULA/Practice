@@ -1,0 +1,17 @@
+table{
+    width: 100%;
+}
+tr:nth-child(odd){
+    background-color: rgb(238, 238, 238);
+}
+#head{
+    display: flex;
+    justify-content: space-between;
+}
+#tab{
+    background-color: white;
+    width: 75vw;
+    margin-right: 10px;
+    border-radius: 5px;
+    padding: 15px;
+}

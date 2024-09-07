@@ -1,0 +1,18 @@
+#divp{
+    display: flex;
+    justify-content: space-evenly;
+    height: 150px;
+  }
+  .divc{
+    margin: 25px;
+    flex-grow: 1;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  @media screen and (max-width:1000px){
+    #divp{
+      display: grid;
+      grid-template-columns: auto auto;
+    }
+  }
